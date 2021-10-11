@@ -8,5 +8,3 @@ dependencies:
   - pytorch>=1.6
   - torchvision
   - pip
-  - pip:
-    - -r file:requirements.txt
